@@ -7,7 +7,7 @@ from typing import List, Dict, Any
 
 # ----------------------- Page Setup & Style -----------------------
 st.set_page_config(
-    page_title="Salem Group - Proposal Success Predictive Model",
+    page_title="Salem Group - Proposal Success Estimator - Predictive Model",
     page_icon="📈",
     layout="centered"
 )
